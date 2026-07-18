@@ -1,0 +1,20 @@
+# Core dependencies for Desktop Organizer
+
+# Standard library modules used in the project:
+
+os
+pathlib
+shutil
+datetime
+logging
+
+# External dependencies
+notebook
+ipykernel
+
+# Development tools
+black
+flake8
+
+# Environment variable support 
+python-dotenv
