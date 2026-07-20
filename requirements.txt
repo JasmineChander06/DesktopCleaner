@@ -1,7 +1,4 @@
-# Core dependencies for Desktop Organizer
-
-# Standard library modules used in the project:
-
+#Core Dependencies
 os
 pathlib
 shutil
